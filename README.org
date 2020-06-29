@@ -8,4 +8,4 @@ A toy editor.
 This is a toy project to give me experience working with various technologies, solving various problems in a much less contrived way. There are lots of things I do not know, so I'll do them wrong here.
 
 If you want to run the project:
-This project is based in rust, so get that and run =cargo run=
+This project is based in +rust+ C, so get gcc and run =make=.

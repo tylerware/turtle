@@ -1,7 +1,0 @@
-[package]
-name = "turtle"
-version = "0.1.0"
-authors = ["Tyler Ware <tyler.ware.777@gmail.com>"]
-edition = "2018"
-
-[dependencies]
